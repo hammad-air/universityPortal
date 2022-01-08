@@ -1,0 +1,1 @@
+{"version":3,"sources":["facultyStudentLogin.css"],"names":[],"mappings":"AAEA,OACI,0HAGJ","file":"main.eaec06ba.chunk.css","sourcesContent":["\n\n#trail {\n    background: url('./Images/green-chameleon-s9CC2SKySJM-unsplash.jpg')\n    center/cover no-repeat fixed ;\n    \n}\n"]}

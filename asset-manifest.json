@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/universityPortal/static/css/main.eaec06ba.chunk.css",
+    "main.js": "/universityPortal/static/js/main.9b678649.chunk.js",
+    "main.js.map": "/universityPortal/static/js/main.9b678649.chunk.js.map",
+    "runtime-main.js": "/universityPortal/static/js/runtime-main.59f37a1d.js",
+    "runtime-main.js.map": "/universityPortal/static/js/runtime-main.59f37a1d.js.map",
+    "static/js/2.8726c7d7.chunk.js": "/universityPortal/static/js/2.8726c7d7.chunk.js",
+    "static/js/2.8726c7d7.chunk.js.map": "/universityPortal/static/js/2.8726c7d7.chunk.js.map",
+    "index.html": "/universityPortal/index.html",
+    "precache-manifest.fbd2f1d7ad1ac9ed0a94d62a4da580e2.js": "/universityPortal/precache-manifest.fbd2f1d7ad1ac9ed0a94d62a4da580e2.js",
+    "service-worker.js": "/universityPortal/service-worker.js",
+    "static/css/main.eaec06ba.chunk.css.map": "/universityPortal/static/css/main.eaec06ba.chunk.css.map",
+    "static/js/2.8726c7d7.chunk.js.LICENSE.txt": "/universityPortal/static/js/2.8726c7d7.chunk.js.LICENSE.txt",
+    "static/media/facultyStudentLogin.css": "/universityPortal/static/media/green-chameleon-s9CC2SKySJM-unsplash.b5fc66f4.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.59f37a1d.js",
+    "static/js/2.8726c7d7.chunk.js",
+    "static/css/main.eaec06ba.chunk.css",
+    "static/js/main.9b678649.chunk.js"
+  ]
+}
